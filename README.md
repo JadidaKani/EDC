@@ -1,3 +1,3 @@
 # EDC
-Digital Communication
-The pracricals i this folder are related to modulation schemes
+Digital Communication.
+The practicals in this folder are related to various modulation schemes
